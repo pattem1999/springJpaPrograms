@@ -1,0 +1,7 @@
+<classpath>
+  <container id="foodie!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/SpringJpa/foodie/src/main/webapp/WEB-INF/lib/spring-webmvc-4.1.4.RELEASE.jar">
+      <source-attachment-path>C:/Users/venkata.ramana/Downloads/spring-framework-4.1.4.RELEASE</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

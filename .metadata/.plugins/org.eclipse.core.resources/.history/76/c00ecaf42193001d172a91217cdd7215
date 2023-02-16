@@ -1,0 +1,5 @@
+package com.SpringProduct1.Service;
+
+public interface ProductService {
+
+}
